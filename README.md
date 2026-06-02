@@ -23,7 +23,7 @@ App de fitness multiplataforma con doble propósito: producto funcional y showca
 | **Animaciones** | GSAP ScrollTrigger · Framer Motion · Lottie |
 | **Backend** | Firebase Auth · Firestore · EmailJS |
 
-🔗 **[Ver portfolio técnico →](https://kore-app.vercel.app/portfolio)**
+🔗 **[Ver portfolio técnico →](https://kore-web-taupe.vercel.app/portfolio)**
 📦 **[Repositorio →](https://github.com/amat3/kore)**
 
 ---
