@@ -1,3 +1,5 @@
+[![Tests](https://github.com/amat3/kore/actions/workflows/test.yml/badge.svg)](https://github.com/amat3/kore/actions/workflows/test.yml)
+
 # Juan Antonio Amate
 
 **Mid Frontend Developer · React / React Native · UI & Design Systems**
